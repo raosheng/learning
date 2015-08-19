@@ -1,1 +1,1 @@
-# study ruby on rails !
+# learning ruby on rails !
